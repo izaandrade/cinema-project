@@ -43,13 +43,11 @@ Este projeto simula a gestão de um cinema, permitindo:
 
 ## 📌 Como executar
 
-1️⃣ Clone o repositório:
-``bash
-git clone https://github.com/izaandrade/cinema-project.git
-
-2️⃣ Abra o projeto em sua IDE Java preferida (Eclipse, IntelliJ, VSCode)
-
-3️⃣ Execute a classe Principal.java
+1. Clone o repositório:
+   ```bash
+    git clone https://github.com/izaandrade/cinema-project.git
+2. Abra o projeto em sua IDE Java preferida (Eclipse, IntelliJ, VSCode)
+3. Execute a classe Principal.java
 
 ---
 
